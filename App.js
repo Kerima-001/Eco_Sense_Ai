@@ -1,7 +1,7 @@
 // src/App.js
 import React, { useEffect, useState } from "react";
 import "./App.css";
-import ecoLogo from "./assets/eco-logo.png"; // keep your logo here
+import ecoLogo from "./assets/eco-logo.png"; 
 
 const API_URL = "http://127.0.0.1:5000/metrics"; // Flask endpoint
 
